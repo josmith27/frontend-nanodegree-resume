@@ -1,3 +1,3 @@
 /*
-$("#main").append([jo]):
+$("#main").append([jo]);
  */
